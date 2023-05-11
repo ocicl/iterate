@@ -1,0 +1,10 @@
+* iterate
+
+This is a fork of the Jonathan Amsterdam's ITERATE macro library,
+keeping it alive, maintained, and even repaired where flaws are found.
+
+|---------+--------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/iterate/iterate.git |
+| commit  | 4a64b686                                               |
+| systems | iterate                                                |
+|---------+--------------------------------------------------------|
