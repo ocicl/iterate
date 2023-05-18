@@ -1,10 +1,9 @@
 * iterate
 
-This is a fork of the Jonathan Amsterdam's ITERATE macro library,
-keeping it alive, maintained, and even repaired where flaws are found.
+iterate is an iteration construct for Common Lisp.
 
 |---------+--------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/iterate/iterate.git |
-| commit  | 4a64b686                                               |
+| commit  | 4a64b68                                                |
 | systems | iterate                                                |
 |---------+--------------------------------------------------------|
