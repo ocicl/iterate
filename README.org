@@ -4,6 +4,6 @@ iterate is an iteration construct for Common Lisp.
 
 |---------+--------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/iterate/iterate.git |
-| commit  | 4a64b68                                                |
+| commit  | 26cf129                                                |
 | systems | iterate                                                |
 |---------+--------------------------------------------------------|
