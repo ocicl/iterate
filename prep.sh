@@ -1,4 +1,4 @@
 #!/bin/sh
 
-# Delete the vendored submodules
+# Delete the vendored submodules.
 rm -rf ext
